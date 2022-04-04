@@ -1,0 +1,17 @@
+C:\Users\ilchu\OneDrive\Робочий стіл\Client\Client\obj\Debug\net6.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\Client\Client\obj\Debug\net6.0-windows\Client.ClientForm.resources
+C:\Users\ilchu\OneDrive\Робочий стіл\Client\Client\obj\Debug\net6.0-windows\Client.csproj.GenerateResource.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\Client\Client\obj\Debug\net6.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilchu\OneDrive\Робочий стіл\Client\Client\obj\Debug\net6.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\Client\Client\obj\Debug\net6.0-windows\Client.AssemblyInfo.cs
+C:\Users\ilchu\OneDrive\Робочий стіл\Client\Client\obj\Debug\net6.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\Client\Client\bin\Debug\net6.0-windows\Client.exe
+C:\Users\ilchu\OneDrive\Робочий стіл\Client\Client\bin\Debug\net6.0-windows\Client.deps.json
+C:\Users\ilchu\OneDrive\Робочий стіл\Client\Client\bin\Debug\net6.0-windows\Client.runtimeconfig.json
+C:\Users\ilchu\OneDrive\Робочий стіл\Client\Client\bin\Debug\net6.0-windows\Client.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Client\Client\bin\Debug\net6.0-windows\ref\Client.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Client\Client\bin\Debug\net6.0-windows\Client.pdb
+C:\Users\ilchu\OneDrive\Робочий стіл\Client\Client\obj\Debug\net6.0-windows\Client.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Client\Client\obj\Debug\net6.0-windows\ref\Client.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Client\Client\obj\Debug\net6.0-windows\Client.pdb
+C:\Users\ilchu\OneDrive\Робочий стіл\Client\Client\obj\Debug\net6.0-windows\Client.genruntimeconfig.cache
